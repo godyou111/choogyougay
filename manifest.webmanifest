@@ -1,0 +1,16 @@
+{
+  "name": "유충",
+  "short_name": "유충",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e1226",
+  "theme_color": "#24105f",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
